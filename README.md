@@ -1,5 +1,5 @@
 # Meow Mrrp Club
-[![Hack Club Badge](https://img.shields.io/badge/Hack%20Club-EC3750?logo=Hack%20Club&logoColor=white)](https://hackclub.com/) ![members](https://img.shields.io/badge/members-28-blue) ![members](https://img.shields.io/badge/meow-:3-orange) 
+[![Hack Club Badge](https://img.shields.io/badge/Hack%20Club-EC3750?logo=Hack%20Club&logoColor=white)](https://hackclub.com/) ![members](https://img.shields.io/badge/members-32-blue) ![members](https://img.shields.io/badge/meow-:3-orange) 
 
 ---
 
